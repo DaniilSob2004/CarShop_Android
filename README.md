@@ -1,1 +1,4 @@
-# CarShop_Android
+  - ![1](https://github.com/user-attachments/assets/d5789a6d-3673-422a-961d-632159e37475)  
+  - ![2](https://github.com/user-attachments/assets/cf721957-c9d8-4eb0-ad1f-016d444c5dfc)
+  - ![3](https://github.com/user-attachments/assets/566c65dc-289e-4ba0-82c7-9ff6ce9305a0)
+  - ![4](https://github.com/user-attachments/assets/1424020f-b7ac-4580-8832-c71b289abbe5)
